@@ -17,38 +17,46 @@ I enjoy building systems, solving problems, and learning how software works behi
 ### Programming Languages
 - Python
 - Java
+- TypeScript
+- JavaScript
 - C
 
 ### Backend Development
 - FastAPI
-- RESTful API Design
-- Database Design
+- Node.js
+- Express.js
+- RESTful API Development
 - PostgreSQL
-- SQL
-- Authentication & Authorization
+- MongoDB
 - Docker
+
+### Mobile Development
+- React Native
+- Expo
+- Expo Router
+- NativeWind
 
 ### Machine Learning & Data
 - NumPy
 - Pandas
 - Scikit-learn
 - Data Preprocessing
-- Feature Engineering
-- Model Evaluation
+- Model Training & Evaluation
 
 ### Software Engineering
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- System Design
-- Testing
+- Database Design
+- System Design Fundamentals
+- Unit Testing
 - CI/CD (GitHub Actions)
 - Secure Coding Fundamentals
 
 ### Tools & Environment
-- Git / GitHub
+- Git & GitHub
 - Linux
 - VS Code
-- Docker CLI
+- Firebase Storage
 
 ---
 
