@@ -30,12 +30,6 @@ I enjoy building systems, solving problems, and learning how software works behi
 - MongoDB
 - Docker
 
-### Mobile Development
-- React Native
-- Expo
-- Expo Router
-- NativeWind
-
 ### Machine Learning & Data
 - NumPy
 - Pandas
@@ -101,6 +95,11 @@ A web-based library management application.
 - Backend Development
 - Database Design
 - API Development
+
+---
+
+### 📱 Social Mobile Application
+Developed a mobile application using React Native and Expo.
 
 ---
 
