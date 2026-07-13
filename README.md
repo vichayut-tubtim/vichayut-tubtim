@@ -1,120 +1,190 @@
-# Hi, I'm Vichayut Tubtim (Pokpong)👋
+# Hi, I'm Vichayut Tubtim (Pokpong) 👋
 
 🎓 Electrical and Computer Engineering Student at Thammasat University
 
-💻 Interested in:
-- Backend Development
-- Software Engineering
-- Machine Learning
+💻 Aspiring Software Engineer interested in:
+- Backend Engineering
+- Data-driven Applications
+- Machine Learning Systems
 - System Design
 
-I enjoy building systems, solving problems, and learning how software works behind the scenes.
+I enjoy building reliable systems, working with data, and understanding how software works behind the scenes.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- Python
-- Java
-- TypeScript
-- JavaScript
-- C
 
-### Backend Development
+- Python
+- C
+- Java
+- JavaScript / TypeScript
+
+---
+
+### Backend Engineering
+
+- RESTful API Development
 - FastAPI
 - Django
 - Node.js (Express.js)
-- RESTful API Development
 - PostgreSQL
 - MongoDB
+- Database Design
 - Docker
 
-### Machine Learning & Data
+---
+
+### Data & Machine Learning
+
 - NumPy
 - Pandas
 - Scikit-learn
 - Data Preprocessing
+- Feature Engineering
 - Model Training & Evaluation
+- Data Visualization
+- Machine Learning Pipeline Fundamentals
+
+---
 
 ### Software Engineering
+
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- Database Design
 - System Design Fundamentals
 - Unit Testing
-- CI/CD (GitHub Actions)
+- CI/CD with GitHub Actions
 - Secure Coding Fundamentals
+- Linux Environment
+
+---
 
 ### Tools & Environment
+
 - Git & GitHub
 - Linux
+- Docker
 - VS Code
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏥 Hospital Readmission Prediction System
-Machine Learning system for predicting patient readmission risk.
+## 🖥️ Remote System Monitor & File Transfer Server
 
-**Tech:**
-- Python
-- Machine Learning
-- Data Processing
-- Model Evaluation
+A client-server system built in C for remote monitoring and file management.
 
----
-
-### 🖥️ Remote System Monitor & File Transfer Server
-A client-server system built in C with:
-
-- Multi-threading
-- Socket Programming
-- Role-based Permission
+### Features:
+- TCP Socket Communication
+- Multi-threaded Client Handling
+- Role-based Authorization
+- File Transfer System
 - File Management
-- Synchronization using Mutex
+- Mutex Synchronization for Shared Resources
+
+### Tech:
+- C
+- Socket Programming
+- Linux
+- Multi-threading
 
 ---
 
-### ☀️ Solar Cell Monitoring Dashboard
-Dashboard system for monitoring solar energy data.
+## 🏥 Hospital Readmission Prediction System
 
-**Tech:**
-- Data Visualization
+A machine learning system that predicts patient readmission risk using healthcare data.
+
+### Features:
+- Data preprocessing pipeline
+- Feature engineering
+- Model training and evaluation
+- Machine learning prediction workflow
+
+### Tech:
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+---
+
+## ☀️ Solar Cell Monitoring Dashboard
+
+A dashboard application for monitoring solar energy data.
+
+### Features:
+- Data visualization
+- Backend API integration
+- Database management
+- Data monitoring workflow
+
+### Tech:
 - Backend API
-- Database Management
+- Database
+- Data Visualization
 
 ---
 
-### 📚 Online Library System
+## 📚 Online Library Management System
+
 A web-based library management application.
 
-**Tech:**
+### Features:
+- User management
+- Book management
+- Database operations
+- REST API development
+
+### Tech:
 - Backend Development
 - Database Design
 - API Development
 
 ---
 
-### 📱 Social Mobile Application
-Developed a mobile application using React Native and Expo.
+## 📱 Social Mobile Application
+
+A mobile application developed using React Native and Expo.
+
+### Features:
+- Mobile UI development
+- Application workflow
+- Client-side interaction
+
+### Tech:
+- React Native
+- Expo
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 🌱 Backend Engineering  
 🌱 System Design  
 🌱 Data Structures & Algorithms  
 🌱 Machine Learning Engineering  
 🌱 Cloud Infrastructure  
+🌱 Database Optimization  
 
 ---
 
-## 📫 Contact
+# 🎯 Career Interests
 
-GitHub: [https://github.com/vichayut-tubtim](https://github.com/vichayut-tubtim)
+Currently looking for opportunities in:
+
+- Backend Engineer
+- Software Engineer
+- Data Engineer
+- Machine Learning Engineer
+
+---
+
+# 📫 Contact
+
+GitHub:
+https://github.com/vichayut-tubtim
 
 ---
 
