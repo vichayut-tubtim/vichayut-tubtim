@@ -5,180 +5,86 @@
 💻 Aspiring Software Engineer interested in:
 - Backend Engineering
 - Data-driven Applications
-- Machine Learning Systems
+- Machine Learning
 - System Design
 
-I enjoy building reliable systems, working with data, and understanding how software works behind the scenes.
+I enjoy building systems, solving problems, and understanding how software works behind the scenes.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-### Programming Languages
+**Languages**
+- Python, C, Java, JavaScript, TypeScript
 
-- Python
-- C
-- Java
-- JavaScript / TypeScript
-
----
-
-### Backend Engineering
-
-- RESTful API Development
-- FastAPI
-- Django
-- Node.js (Express.js)
-- PostgreSQL
-- MongoDB
-- Database Design
+**Backend**
+- FastAPI, Django, Node.js
+- REST API
+- PostgreSQL, MongoDB
 - Docker
 
----
-
-### Data & Machine Learning
-
-- NumPy
-- Pandas
-- Scikit-learn
-- Data Preprocessing
-- Feature Engineering
+**Data & Machine Learning**
+- Pandas, NumPy, Scikit-learn
+- Data Processing
 - Model Training & Evaluation
-- Data Visualization
-- Machine Learning Pipeline Fundamentals
 
----
-
-### Software Engineering
-
-- Object-Oriented Programming (OOP)
+**Software Engineering**
+- OOP
 - Data Structures & Algorithms
-- System Design Fundamentals
-- Unit Testing
-- CI/CD with GitHub Actions
-- Secure Coding Fundamentals
-- Linux Environment
-
----
-
-### Tools & Environment
-
-- Git & GitHub
-- Linux
-- Docker
-- VS Code
-
----
-
-# 🚀 Featured Projects
-
-## 🖥️ Remote System Monitor & File Transfer Server
-
-A client-server system built in C for remote monitoring and file management.
-
-### Features:
-- TCP Socket Communication
-- Multi-threaded Client Handling
-- Role-based Authorization
-- File Transfer System
-- File Management
-- Mutex Synchronization for Shared Resources
-
-### Tech:
-- C
-- Socket Programming
-- Linux
-- Multi-threading
-
----
-
-## 🏥 Hospital Readmission Prediction System
-
-A machine learning system that predicts patient readmission risk using healthcare data.
-
-### Features:
-- Data preprocessing pipeline
-- Feature engineering
-- Model training and evaluation
-- Machine learning prediction workflow
-
-### Tech:
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-
----
-
-## ☀️ Solar Cell Monitoring Dashboard
-
-A dashboard application for monitoring solar energy data.
-
-### Features:
-- Data visualization
-- Backend API integration
-- Database management
-- Data monitoring workflow
-
-### Tech:
-- Backend API
-- Database
-- Data Visualization
-
----
-
-## 📚 Online Library Management System
-
-A web-based library management application.
-
-### Features:
-- User management
-- Book management
-- Database operations
-- REST API development
-
-### Tech:
-- Backend Development
 - Database Design
-- API Development
+- Linux
+- Git/GitHub
+- CI/CD Fundamentals
 
 ---
 
-## 📱 Social Mobile Application
+## 🚀 Featured Projects
 
-A mobile application developed using React Native and Expo.
+### 🖥️ Remote System Monitor & File Transfer Server
+Client-server system built in C featuring:
+- Socket Programming
+- Multi-threading
+- Role-based Permission
+- File Transfer
+- Mutex Synchronization
 
-### Features:
-- Mobile UI development
-- Application workflow
-- Client-side interaction
-
-### Tech:
-- React Native
-- Expo
-
----
-
-# 📚 Currently Learning
-
-🌱 Backend Engineering  
-🌱 System Design  
-🌱 Data Structures & Algorithms  
-🌱 Machine Learning Engineering  
-🌱 Cloud Infrastructure  
-🌱 Database Optimization  
+**Tech:** C, Linux, Socket Programming
 
 ---
 
-# 🎯 Career Interests
+### 🏥 Hospital Readmission Prediction System
+Machine learning system for predicting patient readmission risk.
 
-Currently looking for opportunities in:
-
-- Backend Engineer
-- Software Engineer
-- Data Engineer
-- Machine Learning Engineer
+**Tech:** Python, Pandas, Scikit-learn
 
 ---
 
-⭐ Thanks for visiting my profile!
+### ☀️ Solar Cell Monitoring Dashboard
+Dashboard system for monitoring solar energy data.
+
+**Tech:** Backend API, Database, Data Visualization
+
+---
+
+### 📚 Online Library System
+Web-based library management application.
+
+**Tech:** Backend Development, Database Design, REST API
+
+---
+
+## 📚 Currently Learning
+
+- Backend Engineering
+- System Design
+- Data Engineering
+- Machine Learning Engineering
+- Cloud Infrastructure
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/vichayut-tubtim
+
+⭐ Thanks for visiting!
