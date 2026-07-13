@@ -23,8 +23,7 @@ I enjoy building systems, solving problems, and learning how software works behi
 
 ### Backend Development
 - FastAPI
-- Node.js
-- Express.js
+- Django
 - RESTful API Development
 - PostgreSQL
 - MongoDB
@@ -50,7 +49,6 @@ I enjoy building systems, solving problems, and learning how software works behi
 - Git & GitHub
 - Linux
 - VS Code
-- Firebase Storage
 
 ---
 
