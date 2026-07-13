@@ -42,7 +42,7 @@ I enjoy building systems, solving problems, and learning how software works behi
 - System Design
 - Testing
 - CI/CD (GitHub Actions)
-- Clean Code
+- Secure Coding Fundamentals
 
 ### Tools & Environment
 - Git / GitHub
