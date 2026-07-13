@@ -24,6 +24,7 @@ I enjoy building systems, solving problems, and learning how software works behi
 ### Backend Development
 - FastAPI
 - Django
+- Node.js (Express.js)
 - RESTful API Development
 - PostgreSQL
 - MongoDB
