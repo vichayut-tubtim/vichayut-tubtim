@@ -40,7 +40,8 @@ I enjoy building systems, solving problems, and learning how software works behi
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - System Design
-- Design Patterns
+- Testing
+- CI/CD (GitHub Actions)
 - Clean Code
 
 ### Tools & Environment
