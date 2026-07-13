@@ -83,8 +83,4 @@ Web-based library management application.
 
 ---
 
-## 📫 Contact
-
-GitHub: https://github.com/vichayut-tubtim
-
 ⭐ Thanks for visiting!
