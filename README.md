@@ -181,11 +181,4 @@ Currently looking for opportunities in:
 
 ---
 
-# 📫 Contact
-
-GitHub:
-https://github.com/vichayut-tubtim
-
----
-
 ⭐ Thanks for visiting my profile!
