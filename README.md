@@ -5,46 +5,59 @@
 💻 Aspiring Software Engineer interested in:
 - Backend Engineering
 - Data-driven Applications
-- Machine Learning
+- Machine Learning Systems
 - System Design
 
-I enjoy building systems, solving problems, and understanding how software works behind the scenes.
+I enjoy building software systems, solving problems, and exploring how technology works behind the scenes.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-**Languages**
-- Python, C, Java, JavaScript, TypeScript
+### Languages
+- Python
+- C
+- Java
+- JavaScript / TypeScript
 
-**Backend**
-- FastAPI, Django, Node.js
-- REST API
-- PostgreSQL, MongoDB
+### Backend Development
+- FastAPI
+- Django
+- Node.js (Express.js)
+- RESTful API
+- PostgreSQL
+- MongoDB
 - Docker
 
-**Data & Machine Learning**
-- Pandas, NumPy, Scikit-learn
+### Data & Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
 - Data Processing
+- Feature Engineering
 - Model Training & Evaluation
 
-**Software Engineering**
-- OOP
+### Software Engineering
+- Object-Oriented Programming
 - Data Structures & Algorithms
 - Database Design
+- System Design Fundamentals
+- Unit Testing
+- GitHub Actions (CI/CD)
 - Linux
-- Git/GitHub
-- CI/CD Fundamentals
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🖥️ Remote System Monitor & File Transfer Server
-Client-server system built in C featuring:
-- Socket Programming
+## 🖥️ Remote System Monitor & File Transfer Server
+
+A client-server system built in C for remote monitoring and file management.
+
+**Features:**
+- TCP Socket Communication
 - Multi-threading
-- Role-based Permission
+- Role-based Authorization
 - File Transfer
 - Mutex Synchronization
 
@@ -52,35 +65,73 @@ Client-server system built in C featuring:
 
 ---
 
-### 🏥 Hospital Readmission Prediction System
-Machine learning system for predicting patient readmission risk.
+## 🏥 Hospital Readmission Prediction System
 
-**Tech:** Python, Pandas, Scikit-learn
+A machine learning system that predicts patient readmission risk using healthcare data.
+
+**Features:**
+- Data preprocessing
+- Feature engineering
+- Model training and evaluation
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn
 
 ---
 
-### ☀️ Solar Cell Monitoring Dashboard
-Dashboard system for monitoring solar energy data.
+## ☀️ Solar Cell Monitoring Dashboard
+
+A dashboard application for monitoring and visualizing solar energy data.
+
+**Features:**
+- Data visualization
+- Backend API integration
+- Database management
 
 **Tech:** Backend API, Database, Data Visualization
 
 ---
 
-### 📚 Online Library System
-Web-based library management application.
+## 📚 Online Library System
 
-**Tech:** Backend Development, Database Design, REST API
+A web-based library management application.
+
+**Features:**
+- User management
+- Book management
+- REST API
+- Database operations
+
+**Tech:** Backend Development, Database Design
 
 ---
 
-## 📚 Currently Learning
+## 📱 Social Mobile Application
 
+A mobile application developed with React Native and Expo.
+
+**Tech:** React Native, Expo
+
+---
+
+# 📚 Currently Learning
+
+🌱 Backend Engineering  
+🌱 System Design  
+🌱 Data Engineering  
+🌱 Machine Learning Engineering  
+🌱 Cloud Infrastructure  
+
+---
+
+# 🎯 Career Interests
+
+Looking for opportunities in:
+
+- Software Engineering
 - Backend Engineering
-- System Design
 - Data Engineering
 - Machine Learning Engineering
-- Cloud Infrastructure
 
 ---
 
-⭐ Thanks for visiting!
+⭐ Thanks for visiting my profile!
