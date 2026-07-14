@@ -21,7 +21,7 @@ I enjoy building software systems, solving problems, and exploring how technolog
 | 🗄️ Database | PostgreSQL, SQL, Database Design |
 | 🧠 Machine Learning | Pandas, NumPy, Scikit-learn, Feature Engineering, Model Evaluation |
 | 🧩 Computer Science | Data Structures & Algorithms, Object-Oriented Programming |
-| 🔐 Security & Networking Fundamentals | Secure Authentication, Authorization, SQL Injection Prevention, HTTPS/TLS Concepts, Common Web Vulnerabilities |
+| 🔐 Security Fundamentals | Basic Web Application Security, Vulnerability Testing, SQL Injection, XSS, Secure Coding Practices |
 | 🔧 Tools | VS Code, Git, GitHub, Linux |
 
 
