@@ -1,11 +1,5 @@
 # Hi, I'm Vichayut Tubtim (Pokpong) 👋
 
-💻 Aspiring Software Engineer interested in:
-- Backend Engineering
-- Data-driven Applications
-- Machine Learning Systems
-- System Design
-
 I enjoy building software systems, solving problems, and exploring how technology works behind the scenes.
 
 
