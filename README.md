@@ -1,7 +1,5 @@
 # Hi, I'm Vichayut Tubtim (Pokpong) 👋
 
-🎓 Electrical and Computer Engineering Student at Thammasat University
-
 💻 Aspiring Software Engineer interested in:
 - Backend Engineering
 - Data-driven Applications
