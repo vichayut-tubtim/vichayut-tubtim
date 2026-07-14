@@ -18,15 +18,12 @@ I enjoy building software systems, solving problems, and exploring how technolog
 - Python
 - C
 - Java
-- JavaScript / TypeScript
 
 ### Backend Development
 - FastAPI
 - Django
-- Node.js (Express.js)
 - RESTful API
 - PostgreSQL
-- MongoDB
 - Docker
 
 ### Data & Machine Learning
@@ -41,9 +38,7 @@ I enjoy building software systems, solving problems, and exploring how technolog
 - Object-Oriented Programming
 - Data Structures & Algorithms
 - Database Design
-- System Design Fundamentals
-- Unit Testing
-- GitHub Actions (CI/CD)
+- Git / GitHub
 - Linux
 
 ---
