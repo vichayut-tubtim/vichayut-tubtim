@@ -118,15 +118,4 @@ A mobile application developed with React Native and Expo.
 
 ---
 
-# 🎯 Career Interests
-
-Looking for opportunities in:
-
-- Software Engineering
-- Backend Engineering
-- Data Engineering
-- Machine Learning Engineering
-
----
-
 ⭐ Thanks for visiting my profile!
