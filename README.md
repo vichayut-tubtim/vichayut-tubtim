@@ -10,7 +10,6 @@
 
 I enjoy building software systems, solving problems, and exploring how technology works behind the scenes.
 
----
 
 # 🛠️ Technical Skills
 
@@ -25,8 +24,6 @@ I enjoy building software systems, solving problems, and exploring how technolog
 | 🔧 Tools | VS Code, Git, GitHub, Linux |
 
 
----
-
 # 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Highlights |
@@ -37,16 +34,5 @@ I enjoy building software systems, solving problems, and exploring how technolog
 | 📚 **Online Library System** | A web-based library management platform for managing books and users. | Django, PostgreSQL, HTML/CSS/JS | Authentication, CRUD Operations, Database Design |
 | 📱 **Social Mobile Application** | A mobile application developed for social interaction features. | React Native, Expo | Mobile Application Development |
 
----
-
-# 📚 Currently Learning
-
-🌱 Backend Engineering  
-🌱 System Design  
-🌱 Data Engineering  
-🌱 Machine Learning Engineering  
-🌱 Cloud Infrastructure  
-
----
 
 ⭐ Thanks for visiting my profile!
