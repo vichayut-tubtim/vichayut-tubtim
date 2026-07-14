@@ -12,99 +12,28 @@ I enjoy building software systems, solving problems, and exploring how technolog
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### Languages
-- Python
-- C
-- Java
-
-### Backend Development
-- FastAPI
-- Django
-- RESTful API
-- PostgreSQL
-- Docker
-
-### Data & Machine Learning
-- Pandas
-- NumPy
-- Scikit-learn
-- Data Processing
-- Feature Engineering
-- Model Training & Evaluation
-
-### Software Engineering
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Database Design
-- Git / GitHub
-- Linux
+| Category | Skills |
+|---|---|
+| 💻 Languages | Python, C, Java |
+| 🚀 Backend | FastAPI, Django, REST API, PostgreSQL, Docker |
+| 🗄️ Database | PostgreSQL, SQL, Database Design |
+| 🧠 Machine Learning | Pandas, NumPy, Scikit-learn, Feature Engineering, Model Evaluation |
+| 🧩 Computer Science | Data Structures & Algorithms, Object-Oriented Programming |
+| 🔧 Tools | VS Code, Git, GitHub, Linux |
 
 ---
 
 # 🚀 Featured Projects
 
-## 🖥️ Remote System Monitor & File Transfer Server
-
-A client-server system built in C for remote monitoring and file management.
-
-**Features:**
-- TCP Socket Communication
-- Multi-threading
-- Role-based Authorization
-- File Transfer
-- Mutex Synchronization
-
-**Tech:** C, Linux, Socket Programming
-
----
-
-## 🏥 Hospital Readmission Prediction System
-
-A machine learning system that predicts patient readmission risk using healthcare data.
-
-**Features:**
-- Data preprocessing
-- Feature engineering
-- Model training and evaluation
-
-**Tech:** Python, Pandas, NumPy, Scikit-learn
-
----
-
-## ☀️ Solar Cell Monitoring Dashboard
-
-A dashboard application for monitoring and visualizing solar energy data.
-
-**Features:**
-- Data visualization
-- Backend API integration
-- Database management
-
-**Tech:** Backend API, Database, Data Visualization
-
----
-
-## 📚 Online Library System
-
-A web-based library management application.
-
-**Features:**
-- User management
-- Book management
-- REST API
-- Database operations
-
-**Tech:** Backend Development, Database Design
-
----
-
-## 📱 Social Mobile Application
-
-A mobile application developed with React Native and Expo.
-
-**Tech:** React Native, Expo
+| Project | Description | Tech Stack | Highlights |
+|---|---|---|---|
+| 🖥️ **Remote System Monitor & File Transfer Server** | A client-server system built in C for remote monitoring and file management. | C, Linux, Socket Programming | TCP Socket, Multi-threading, Role-based Authorization, Mutex Synchronization |
+| 🏥 **Hospital Readmission Prediction System** | A machine learning system that predicts patient readmission risk using healthcare data. | Python, Pandas, NumPy, Scikit-learn | Data Preprocessing, Feature Engineering, Model Evaluation |
+| ☀️ **Solar Cell Monitoring Dashboard** | A dashboard application for monitoring and visualizing solar energy data. | Backend API, Database, Data Visualization | API Integration, Data Processing, Dashboard Development |
+| 📚 **Online Library System** | A web-based library management platform for managing books and users. | Django, PostgreSQL, HTML/CSS/JS | Authentication, CRUD Operations, Database Design |
+| 📱 **Social Mobile Application** | A mobile application developed for social interaction features. | React Native, Expo | Mobile Application Development |
 
 ---
 
