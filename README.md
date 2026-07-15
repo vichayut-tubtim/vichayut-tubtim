@@ -20,11 +20,11 @@ I enjoy building software systems, solving problems, and exploring how technolog
 
 | Project | Description | Tech Stack | Highlights |
 |---|---|---|---|
-| 🖥️ **[Remote System Monitor & File Transfer Server](https://github.com/vichayut-tubtim/remote-system-monitor)** | A client-server system built in C for remote monitoring and file management. | C, Linux, Socket Programming | TCP Socket, Multi-threading, Role-based Authorization, Mutex Synchronization |
-| 🏥 **[Hospital Readmission Prediction System](https://github.com/vichayut-tubtim/hospital-readmission-prediction)** | A machine learning system that predicts patient readmission risk using healthcare data. | Python, Pandas, NumPy, Scikit-learn | Data Preprocessing, Feature Engineering, Model Evaluation |
-| ☀️ **[Solar Cell Monitoring Dashboard](https://github.com/vichayut-tubtim/solarcell-system)** | A dashboard application for monitoring and visualizing solar energy data. | Backend API, Database, Data Visualization | API Integration, Data Processing, Dashboard Development |
-| 📚 **[Online Library System](https://github.com/vichayut-tubtim/online-library)** | A web-based library management platform for managing books and users. | Django, PostgreSQL, HTML/CSS/JS | Authentication, CRUD Operations, Database Design |
-| 📱 **[Social Mobile Application](https://github.com/vichayut-tubtim/mobile-app-project)** | A mobile application developed for social interaction features. | React Native, Expo | Mobile Application Development |
+| **[Remote System Monitor & File Transfer Server](https://github.com/vichayut-tubtim/remote-system-monitor)** | A client-server system built in C for remote monitoring and file management. | C, Linux, Socket Programming | TCP Socket, Multi-threading, Role-based Authorization, Mutex Synchronization |
+| **[Hospital Readmission Prediction System](https://github.com/vichayut-tubtim/hospital-readmission-prediction)** | A machine learning system that predicts patient readmission risk using healthcare data. | Python, Pandas, NumPy, Scikit-learn | Data Preprocessing, Feature Engineering, Model Evaluation |
+| **[Solar Cell Monitoring Dashboard](https://github.com/vichayut-tubtim/solarcell-system)** | A dashboard application for monitoring and visualizing solar energy data. | Backend API, Database, Data Visualization | API Integration, Data Processing, Dashboard Development |
+| **[Online Library System](https://github.com/vichayut-tubtim/online-library)** | A web-based library management platform for managing books and users. | Django, PostgreSQL, HTML/CSS/JS | Authentication, CRUD Operations, Database Design |
+| **[Social Mobile Application](https://github.com/vichayut-tubtim/mobile-app-project)** | A mobile application developed for social interaction features. | React Native, Expo | Mobile Application Development |
 
 
 ⭐ Thanks for visiting my profile!
