@@ -18,13 +18,13 @@ I enjoy building software systems, solving problems, and exploring how technolog
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Highlights |
-|---|---|---|---|
-| **[Remote System Monitor & File Transfer Server](https://github.com/vichayut-tubtim/remote-system-monitor)** | A client-server system built in C for remote monitoring and file management. | C, Linux, Socket Programming | TCP Socket, Multi-threading, Role-based Authorization, Mutex Synchronization |
-| **[Hospital Readmission Prediction System](https://github.com/vichayut-tubtim/hospital-readmission-prediction)** | A machine learning system that predicts patient readmission risk using healthcare data. | Python, Pandas, NumPy, Scikit-learn | Data Preprocessing, Feature Engineering, Model Evaluation |
-| **[Solar Cell Monitoring Dashboard](https://github.com/vichayut-tubtim/solarcell-system)** | A dashboard application for monitoring and visualizing solar energy data. | Backend API, Database, Data Visualization | API Integration, Data Processing, Dashboard Development |
-| **[Online Library System](https://github.com/vichayut-tubtim/online-library)** | A web-based library management platform for managing books and users. | Django, PostgreSQL, HTML/CSS/JS | Authentication, CRUD Operations, Database Design |
-| **[Social Mobile Application](https://github.com/vichayut-tubtim/mobile-app-project)** | A mobile application developed for social interaction features. | React Native, Expo | Mobile Application Development |
+| Project | What I Built | Tech Stack |
+|---|---|---|
+| **[Remote System Monitor & File Transfer Server](https://github.com/vichayut-tubtim/remote-system-monitor)** | Designed and implemented a TCP client-server architecture with multi-threading, remote monitoring commands, file transfer functionality, role-based authorization, and mutex synchronization. | C, Linux, Socket Programming |
+| **[Hospital Readmission Risk Prediction System](https://github.com/vichayut-tubtim/hospital-readmission-prediction)** | Built a machine learning workflow including data preprocessing, feature engineering, model training, and evaluation for predicting patient readmission risk. | Python, Pandas, NumPy, Scikit-learn |
+| **[Solar Energy Monitoring System](https://github.com/vichayut-tubtim/solarcell-system)** | Designed system flow and implemented data visualization features to present solar energy data through graphical charts for monitoring and analysis. | Data Visualization, Data Processing, System Design |
+| **[Library Management System](https://github.com/vichayut-tubtim/online-library)** | Implemented user authentication, CRUD operations, and designed database structures for managing books and users. | Django, PostgreSQL, HTML/CSS/JavaScript |
+| **[Campus Social Networking App](https://github.com/vichayut-tubtim/mobile-app-project)** | Designed UI/UX layouts and defined application workflows, including screen interactions and user experience flows. | React Native, Expo, UI/UX Design |
 
 
 ⭐ Thanks for visiting my profile!
