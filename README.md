@@ -25,6 +25,3 @@ I enjoy building software systems, solving problems, and exploring how technolog
 | **[Solar Energy Monitoring System](https://github.com/vichayut-tubtim/solarcell-system)** | Designed system flow and implemented data visualization features to present solar energy data through graphical charts for monitoring and analysis. | Data Visualization, Data Processing, System Design |
 | **[Library Management System](https://github.com/vichayut-tubtim/online-library)** | Implemented user authentication, CRUD operations, and designed database structures for managing books and users. | Django, PostgreSQL, HTML/CSS/JavaScript |
 | **[Campus Social Networking App](https://github.com/vichayut-tubtim/mobile-app-project)** | Designed UI/UX layouts and defined application workflows, including screen interactions and user experience flows. | React Native, Expo, UI/UX Design |
-
-
-⭐ Thanks for visiting my profile!
