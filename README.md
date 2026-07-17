@@ -20,7 +20,7 @@ I enjoy building software systems, solving problems, and exploring how technolog
 
 | Project | What I Built | Tech Stack |
 |---|---|---|
-| **[Hospital Readmission Risk Stratification System](https://github.com/vichayut-tubtim/hospital-readmission-risk-stratification)** | Built a machine learning workflow including data preprocessing, feature engineering, model training, and evaluation for predicting patient readmission risk. | Python, Pandas, NumPy, Scikit-learn |
+| **[Hospital Readmission Risk Stratification System](https://github.com/vichayut-tubtim/hospital-readmission-risk-stratification)** | Built an end-to-end machine learning pipeline for predicting 30-day patient readmission risk, including data preprocessing, domain-based feature engineering, model training, and performance evaluation. | Python, Pandas, NumPy, Scikit-learn |
 | **[Remote System Monitor & File Transfer Server](https://github.com/vichayut-tubtim/remote-system-monitor)** | Designed and implemented a TCP client-server architecture with multi-threading, remote monitoring commands, file transfer functionality, role-based authorization, and mutex synchronization. | C, Linux, Socket Programming |
 | **[Solar Power Plant Management System](https://github.com/vichayut-tubtim/solarcell-system)** | Designed system flow and developed a Django-based web application for managing solar energy data and displaying graphical visualizations for monitoring and analysis. | Django, Data Visualization, Data Processing, System Design |
 | **[Library Management System](https://github.com/vichayut-tubtim/online-library)** | Implemented user authentication, CRUD operations, and designed database structures for managing books and users. | Django, PostgreSQL |
