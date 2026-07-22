@@ -3,7 +3,7 @@
 I enjoy building software systems, solving problems, and exploring how technology works behind the scenes.
 
 
-# 🛠️ Technical Skills
+# Technical Skills
 
 | Category | Skills |
 |---|---|
