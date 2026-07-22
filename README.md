@@ -14,14 +14,3 @@ I enjoy building software systems, solving problems, and exploring how technolog
 | 🧩 Computer Science | Data Structures & Algorithms, Object-Oriented Programming |
 | 🔐 Security Fundamentals | OWASP Top 10, Secure Coding Practices |
 | 🔧 Tools | VS Code, Git, GitHub, Linux |
-
-
-# 🚀 Featured Projects
-
-| Project | What I Built | Tech Stack |
-|---|---|---|
-| **[Hospital Readmission Risk Stratification System](https://github.com/vichayut-tubtim/hospital-readmission-risk-stratification)** | Developed an end-to-end machine learning workflow for identifying high-risk diabetic patients, including leakage-aware preprocessing, domain feature engineering, model training, and evaluation using healthcare data. | Python, Pandas, NumPy, Scikit-learn |
-| **[Remote System Monitor & File Transfer Server](https://github.com/vichayut-tubtim/remote-system-monitor)** | Designed and implemented a TCP client-server architecture with multi-threading, remote monitoring commands, file transfer functionality, role-based authorization, and mutex synchronization. | C, Linux, Socket Programming |
-| **[Solar Power Plant Management System](https://github.com/vichayut-tubtim/solarcell-system)** | Designed system flow and developed a Django-based web application for managing solar energy data and displaying graphical visualizations for monitoring and analysis. | Django, Data Visualization, Data Processing, System Design |
-| **[Library Management System](https://github.com/vichayut-tubtim/online-library)** | Implemented user authentication, CRUD operations, and designed database structures for managing books and users. | Django, PostgreSQL |
-| **[Campus Social Networking App](https://github.com/vichayut-tubtim/mobile-app-project)** | Identified user needs and designed application features, workflows, and UI/UX to address real-world problems and improve user experience. | React Native, Expo, UI/UX Design |
